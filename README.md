@@ -228,5 +228,4 @@ Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE]
 ## ✍️ Autor
 
 **Edivan Carvalho**  
-📧 [email@example.com](mailto:email@example.com)  
 🚀 Projeto acadêmico desenvolvido com **Quarkus** e **Java 21**.
