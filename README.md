@@ -221,7 +221,7 @@ curl "http://localhost:8080/topics/test/poll?consumerGroup=app1&max=5"
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a **GNU** — veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
