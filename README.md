@@ -1,8 +1,7 @@
 # 🦜 Ararajuba Broker
 
-> ⚠️ **Aviso:** Este projeto é um **MVP** (Minimum Viable Product). 
-> Trata-se de um protótipo funcional de um broker de mensageria distribuída, desenvolvido 
-> para o trabalho de conclusão da disciplina de Sistemas Distribuídos do curso de Sistemas de Informação - Instituto Federal Fluminense.
+>⚠️ Aviso: Este projeto é um MVP (Minimum Viable Product).
+> Trata-se de um protótipo funcional de um broker de mensageria distribuída, desenvolvido com fins acadêmicos como parte do Trabalho de Conclusão da disciplina Sistemas Distribuídos, do curso de Bacharelado em Sistemas de Informação — Instituto Federal Fluminense.
 
 **Ararajuba Broker** é um sistema de **mensageria distribuída** desenvolvido em **Java 21** com **Quarkus 3.20**, inspirado em soluções como **Kafka** e **RabbitMQ**.  
 O projeto implementa um **broker** próprio, com **controle de offsets**, **entrega confiável** e **múltiplos grupos de consumo**, permitindo publicação, consumo e confirmação (**ACK**) de mensagens.
